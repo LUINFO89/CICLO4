@@ -1,0 +1,5 @@
+npm install react 
+npm install bootstrap
+// CREAR COMPONENTES Y EN ELLA LOS COMPNENTES CON LAPRIMERA EN MAYUSCULA
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
